@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Solid
+  - Player
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG_A
+    uniqueID: 2763904859
+    locked: 0
+  - name: BG_B
+    uniqueID: 2082899325
+    locked: 0
+  - name: BG_C
+    uniqueID: 2372349521
+    locked: 0
+  - name: Tiles
+    uniqueID: 892990589
+    locked: 0
+  - name: Under_Particles
+    uniqueID: 1193645523
+    locked: 0
+  - name: Player
+    uniqueID: 3581188531
+    locked: 0
+  - name: Over_Particles
+    uniqueID: 779742571
+    locked: 0
+  - name: FG_A
+    uniqueID: 4191458953
+    locked: 0
+  - name: FG_B
+    uniqueID: 4093089337
+    locked: 0
+  - name: FG_C
+    uniqueID: 87769679
+    locked: 0
+  - name: Menus
+    uniqueID: 844963555
+    locked: 0
